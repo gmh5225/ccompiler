@@ -1,0 +1,3 @@
+[submodule "extern/jlibc"]
+	path = extern/jlibc
+	url = git@github.com:Jonas-205/jlibc.git
